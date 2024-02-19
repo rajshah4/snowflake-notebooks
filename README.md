@@ -18,7 +18,6 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 [Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
 
 
-
 ## Using the Notebooks
 
 For connecting to snowflake, the notebooks use a creds.json file.  You will want to create this JSON file with the following structure
@@ -30,3 +29,7 @@ For connecting to snowflake, the notebooks use a creds.json file.  You will want
     "warehouse":"MY WH",
 }
 ```
+
+## Containers
+
+[Lag-LLama in Snowflake Container Services](https://github.com/rajshah4/Lagllama_demo)
