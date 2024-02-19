@@ -13,7 +13,9 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 [Starter guide on UDFs and UDTFs in Snowflake](UDF_UDTF_Examples.ipynb)
 
-[Benchmarking VLLM with Mistral](VLLM_benchmark_Mistral.ipynb)
+[Benchmarking VLLM with Mistral in Container Services](VLLM_benchmark_Mistral.ipynb)
+
+[Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
 
 
 
