@@ -17,6 +17,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 [Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
 
+[Simple RAG Example using Cortex functions](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
+
 
 ## Using the Notebooks
 
