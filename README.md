@@ -5,7 +5,9 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 ## Notebooks
 
-[Basics of Snowpark using Diabetes Dataset](SnowPark_Basics_Diabetes/Snowpark_For_Python_ML_Diabetes.ipynb)  
+[Basics of Snowpark using Diabetes Dataset](SnowPark_Basics_Diabetes/Snowpark_For_Python_ML_Diabetes.ipynb)
+
+[Basics of Snowpark with Forecasting Chicago Bus Ridership](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus.ipynb)
 
 [Big Datasets for showing off Snowpark](BigData_Demo/xgboost_tpcds.ipynb) 
 
