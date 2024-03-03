@@ -11,6 +11,9 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 [Big Datasets for showing off Snowpark](BigData_Demo/xgboost_tpcds.ipynb) 
 
+[Forecasting M5 Series with Nixlta](TimeSeries_M5/Forecasting_M5.ipynb)
+    [Streamlit App](TimeSeries_M5/TS_byseries_streamlit.ipynb)
+
 [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
 
 [Starter guide on UDFs and UDTFs in Snowflake](UDF_UDTF_Examples.ipynb)
