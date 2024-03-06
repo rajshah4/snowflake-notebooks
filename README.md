@@ -24,6 +24,8 @@ Cortex LLM
 
 - [Streamlit App for Cortex LLM](Cortex_LLM/Streamlit_Cortex_LLM.ipynb)  
 
+- [Simple RAG Example using Cortex functions](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
+
 ---
 Misc:
 
@@ -35,7 +37,7 @@ Misc:
 
 [Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
 
-[Simple RAG Example using Cortex functions](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
+
 
 
 ## Using the Notebooks
