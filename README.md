@@ -20,9 +20,9 @@ Scaling:
 
 --- 
 Cortex LLM  
-- [Basics of Cortex LLM from Python](Cortex_LLM/Cortex_LLM_Basics.ipynb)  
+- [Basics of Cortex LLM from Python](Cortex_LLM/Cortex_LLM_Python.ipynb)  
 
-- [Streamlit App for Cortex LLM](Cortex_LLM/LLM_Streamlit.ipynb)  
+- [Streamlit App for Cortex LLM](Cortex_LLM/Streamlit_Cortex_LLM.ipynb)  
 
 ---
 Misc:
