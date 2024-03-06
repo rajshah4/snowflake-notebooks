@@ -10,14 +10,22 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 [Basics of Snowpark with Forecasting Chicago Bus Ridership](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus.ipynb)
   
 ---
+Scaling:
 
 [Big Datasets for showing off Snowpark](BigData_Demo/xgboost_tpcds.ipynb) 
 
-[Forecasting M5 Series with Nixlta](TimeSeries_M5/Forecasting_M5.ipynb)
+[Forecasting M5 Multi Time Series with Nixlta](TimeSeries_M5/Forecasting_M5.ipynb)
 
 - [Streamlit Forecasting App](TimeSeries_M5/TS_byseries_streamlit.ipynb)
 
 --- 
+Cortex LLM  
+- [Basics of Cortex LLM from Python](Cortex_LLM/Cortex_LLM_Basics.ipynb)  
+
+- [Streamlit App for Cortex LLM](Cortex_LLM/LLM_Streamlit.ipynb)  
+
+---
+Misc:
 
 [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
 
