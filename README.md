@@ -22,9 +22,12 @@ Scaling:
 Cortex LLM  
 - [Basics of Cortex LLM from Python](Cortex_LLM/Cortex_LLM_Python.ipynb)  
 
+- [Evaluation of Cortex LLM with LangChain](Cortex_LLM/Cortex_LangChain.ipynb)
+
 - [Streamlit App for Cortex LLM](Cortex_LLM/Streamlit_Cortex_LLM.ipynb)  
 
 - [Simple RAG Example using Cortex functions](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
+
 
 ---
 Misc:
