@@ -26,7 +26,7 @@ Cortex LLM
 
 - [Streamlit App for Cortex LLM](Cortex_LLM/Streamlit_Cortex_LLM.ipynb)  
 
-- [Simple RAG Example using Cortex functions](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
+- [Simple RAG Example using Cortex functions with Streamlit App](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
 
 
 ---
