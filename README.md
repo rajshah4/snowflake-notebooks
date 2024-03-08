@@ -47,7 +47,7 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Lag LLama Time Series Model](Containers/LagLlama) and [github repo](https://github.com/rajshah4/Lagllama_demo)
 
-- [H2O LLM Studio](Containers/H2o_LLM_Studio)
+- [H2O LLM Studio](Containers/H2O_LLM_Studio)
 
 ## Using the Notebooks
 
