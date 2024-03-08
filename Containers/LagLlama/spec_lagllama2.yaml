@@ -1,0 +1,28 @@
+spec:
+  container:
+  - name: lagllama2
+    image: "***.registry.snowflakecomputing.com/rajiv/public/images/lagllama2"
+    volumeMounts:
+      - name: models
+        mountPath: /models
+    env:
+      LLM_MODEL: time-series-foundation-models/Lag-Llama
+      HUGGINGFACE_TOKEN: 
+      SNOW_ROLE: RAJIV
+      SNOW_WAREHOUSE: RAJIV
+      SNOW_DATABASE: RAJIV
+      SNOW_SCHEMA: PUBLIC
+    resources:
+      requests:
+        nvidia.com/gpu: 1
+      limits:
+        nvidia.com/gpu: 1
+  volume:
+  - name: models
+    source: "@rajiv.public.models"
+    uid: 1000
+    gid: 1000
+  endpoint:
+  - name: jupyter # For jupyter only - remove only validated
+    port: 8888
+    public: true

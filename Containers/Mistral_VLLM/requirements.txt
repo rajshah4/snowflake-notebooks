@@ -1,0 +1,8 @@
+snowflake-snowpark-python[pandas]
+vllm==0.2.2 # For inference endpoint
+typing_extensions==4.5.0
+pydantic==1.10.13
+openai==1.2.0
+altair
+pandas
+streamlit

@@ -1,0 +1,19 @@
+snowflake-snowpark-python[pandas]
+#vllm==0.2.2 # For inference endpoint
+typing_extensions==4.5.0
+pydantic==1.10.13
+openai==1.2.0
+gluonts==0.13.3
+numpy==1.23.5
+pytorch_lightning==2.0.4
+torch>=2.0.0
+wandb
+scipy
+pandas
+datasetsforecast
+fire
+huggingface_hub[cli]
+neuralforecast
+orjson
+statsforecast
+utilsforecast

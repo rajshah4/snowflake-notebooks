@@ -1,0 +1,28 @@
+spec:
+  container:
+  - name: h2o
+    image: "***.registry.snowflakecomputing.com/rajiv/public/images/h2o"
+    volumeMounts:
+      - name: models
+        mountPath: /models
+    env:
+      LLM_MODEL: mistralai/Mistral-7B-Instruct-v0.2
+      HUGGINGFACE_TOKEN: <you huggingface token>
+      SNOW_ROLE: RAJIV
+      SNOW_WAREHOUSE: RAJIV
+      SNOW_DATABASE: RAJIV
+      SNOW_SCHEMA: PUBLIC
+    resources:
+      requests:
+        nvidia.com/gpu: 1
+      limits:
+        nvidia.com/gpu: 1
+  volume:
+  - name: models
+    source: "@rajiv.public.models"
+    uid: 1000
+    gid: 1000
+  endpoint:
+  - name: h2o1
+    port: 10101
+    public: true
