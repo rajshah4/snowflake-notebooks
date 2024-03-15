@@ -49,7 +49,11 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [H2O LLM Studio](Containers/H2O_LLM_Studio)
 
-## Using the Notebooks
+-  Fine Tune Llama using Hugging Face TRL - [Container Services Setup Notebook](Containers/Container_setup_finetuneTRL.ipynb), [dockerfile](Containers/FineTuneTRL), and [Training Notebook using TRL](Containers/FineTuneTRL/LLamaTrain.ipynb)
+
+---
+
+## Using the Notebooks:  
 
 For connecting to snowflake, the notebooks use a creds.json file.  You will want to create this JSON file with the following structure
 ```
