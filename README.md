@@ -40,6 +40,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
 
+- [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
+
 ---
 ### Containers for Snowflake Container Services:
 
@@ -49,7 +51,9 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [H2O LLM Studio](Containers/H2O_LLM_Studio)
 
--  Fine Tune Llama using Hugging Face TRL - [Container Services Setup Notebook](Containers/Container_setup_finetuneTRL.ipynb), [dockerfile](Containers/FineTuneTRL), and [Training Notebook using TRL](Containers/FineTuneTRL/LLamaTrain.ipynb)
+- Fine Tune Llama using Hugging Face TRL - [Container Services Setup Notebook](Containers/Container_setup_finetuneTRL.ipynb), [dockerfile](Containers/FineTuneTRL), and [Training Notebook using TRL](Containers/FineTuneTRL/LLamaTrain.ipynb)
+
+- Use Nemo GuardRails with Snowflake Cortex - [based on this example](https://github.com/Snowflake-Labs/sf-samples/tree/cortex-nemoguardrails/samples/cortex-nemoguardrails), see [folder](Containers/NemoGuard)
 
 ---
 

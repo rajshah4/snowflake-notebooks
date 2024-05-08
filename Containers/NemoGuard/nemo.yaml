@@ -1,0 +1,14 @@
+spec:
+  containers:
+    - name: udf
+      image: sfsenorthamerica-demo412.registry.snowflakecomputing.com/rajiv/public/images/nemoguard
+      env:
+        MODEL: 'mistral-7b'
+        SNOW_ROLE: RAJIV
+        SNOWFLAKE_WAREHOUSE: RAJIV
+        SNOW_DATABASE: RAJIV
+        SNOW_SCHEMA: PUBLIC
+  endpoints:
+    - name: chat
+      port: 5000
+      public: false
