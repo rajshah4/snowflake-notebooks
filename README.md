@@ -28,7 +28,7 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Simple RAG Example using Cortex functions with Streamlit App](RAG_Example/End-to-end_RAG_Snowflake.ipynb)
 
-- [Generating Question / Answer Sythetic Pairs for RAG Evaluation](Cortex_LLM/Cortex_QuestionGeneration.ipynb)
+- [Evaluating RAG using Cortex by Generating Question / Answer Synthetic Pairs and a Model as Judge](Cortex_LLM/Cortex_RAG_Eval.ipynb)
 
 
 ---
