@@ -30,7 +30,7 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Evaluating RAG using Cortex by Generating Question / Answer Synthetic Pairs and a Model as Judge](Cortex_LLM/Cortex_RAG_Eval.ipynb)
 
-- [Getting User Feedback using Cortex](Cortex_LLM/Streamlit_Cortex_Evaluation_LLM.ipynb)
+- [Getting User Feedback using Cortex with Streamlit App](Cortex_LLM/Streamlit_Cortex_Evaluation_LLM.ipynb)
 
 
 ---
