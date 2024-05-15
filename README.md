@@ -14,6 +14,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Big Datasets for showing off Snowpark](BigData_Demo/xgboost_tpcds.ipynb) 
 
+- [Snowpark with Big Data for Forecasting](BigData_Demo/Snowpark_pandas_demo.ipynb)
+
 - [Forecasting M5 Multi Time Series with Nixlta](TimeSeries_M5/Forecasting_M5.ipynb)
 
   - [Streamlit Forecasting App](TimeSeries_M5/TS_byseries_streamlit.ipynb)
