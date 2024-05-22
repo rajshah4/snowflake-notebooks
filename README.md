@@ -36,7 +36,7 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 
 ---
-### Misc Notebooks:
+### Misc Notebooks: 
 
 - [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
 
