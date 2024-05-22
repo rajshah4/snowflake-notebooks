@@ -40,6 +40,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
 
+- [Using Embedding Models or Sentence Transformers with Snowpark](sentence_transformers.ipynb)
+
 - [Starter guide on UDFs and UDTFs in Snowflake](UDF_UDTF_Examples.ipynb)
 
 - [Benchmarking VLLM with Mistral in Container Services](VLLM_benchmark_Mistral.ipynb)
