@@ -50,6 +50,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
 
+- [ML Monitoring with Snowflake - Summit 2024 Talk](Summit2024_monitoring.ipynb)
+
 ---
 ### Containers for Snowflake Container Services:
 
