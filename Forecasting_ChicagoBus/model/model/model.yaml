@@ -1,0 +1,60 @@
+creation_timestamp: '2024-07-12 14:17:21.131421'
+env:
+  conda: env/conda.yml
+  cuda_version: null
+  pip: env/requirements.txt
+  python_version: '3.11'
+  snowpark_ml_version: 1.5.3
+metadata: null
+min_snowpark_ml_version: 1.0.12
+model_type: snowml
+models:
+  FORECASTING_BUS_RIDERSHIP:
+    artifacts: {}
+    handler_version: '2023-12-01'
+    model_type: snowml
+    name: FORECASTING_BUS_RIDERSHIP
+    options: {}
+    path: model.pkl
+name: FORECASTING_BUS_RIDERSHIP
+runtimes:
+  cpu:
+    dependencies:
+      conda: runtimes/cpu/env/conda.yml
+      pip: runtimes/cpu/env/requirements.txt
+    imports: []
+signatures:
+  predict:
+    inputs:
+    - name: DAY_OF_WEEK
+      type: INT8
+    - name: MONTH
+      type: INT8
+    - name: PREV_DAY_RIDERS
+      type: INT64
+    - name: MINIMUM_TEMPERATURE
+      type: DOUBLE
+    - name: MAXIMUM_TEMPERATURE
+      type: DOUBLE
+    - name: PRECIPITATION
+      type: DOUBLE
+    - name: DAYTYPE
+      type: STRING
+    outputs:
+    - name: DAY_OF_WEEK
+      type: INT8
+    - name: MONTH
+      type: INT8
+    - name: PREV_DAY_RIDERS
+      type: INT64
+    - name: MINIMUM_TEMPERATURE
+      type: DOUBLE
+    - name: MAXIMUM_TEMPERATURE
+      type: DOUBLE
+    - name: PRECIPITATION
+      type: DOUBLE
+    - name: DAYTYPE
+      type: STRING
+    - name: TOTAL_RIDERS_FORECAST
+      type: DOUBLE
+version: '2023-12-01'

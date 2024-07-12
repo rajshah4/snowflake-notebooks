@@ -1,0 +1,12 @@
+channels:
+- https://repo.anaconda.com/pkgs/snowflake
+- nodefaults
+dependencies:
+- python==3.11.*
+- scikit-learn
+- xgboost
+- cloudpickle<3,>=2.2
+- snowflake-ml-python<2,>=1.5
+- numpy<2,>=1.26
+- pandas<2,>=1.5
+name: snow-env
