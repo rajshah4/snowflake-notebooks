@@ -52,6 +52,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [ML Monitoring with Snowflake - Summit 2024 Talk](Summit2024_monitoring.ipynb)
 
+- [Training examples using Snowpark ML and Stored Procedures](TrainingML.ipynb)
+
 ---
 ### Containers for Snowflake Container Services:
 
