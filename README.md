@@ -34,6 +34,10 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 - [Getting User Feedback using Cortex with Streamlit App](Cortex_LLM/Streamlit_Cortex_Evaluation_LLM.ipynb)
 
+--- 
+### ML Functions
+
+- [Using Snowflake ML Functions for Forecasting](ML_Functions/Forecasting.ipynb)
 
 ---
 ### Misc Notebooks: 
