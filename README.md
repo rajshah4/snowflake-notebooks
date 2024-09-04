@@ -40,6 +40,14 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 - [Using Snowflake ML Functions for Forecasting](ML_Functions/Forecasting.ipynb)
 
 ---
+### ML Functions
+
+- [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
+
+- [Basics of Snowpark with Forecasting Chicago Bus Ridership including Feature Store](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus_FeatureStore.ipynb)
+
+---
+
 ### Misc Notebooks: 
 
 - [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
@@ -51,8 +59,6 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 - [Benchmarking VLLM with Mistral in Container Services](VLLM_benchmark_Mistral.ipynb)
 
 - [Model Evaluation and Monitoring with Evidently AI in Snowflake](SnowPark_Basics_Diabetes/Diabetes_Evidently.ipynb)
-
-- [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
 
 - [ML Monitoring with Snowflake - Summit 2024 Talk](Summit2024_monitoring.ipynb)
 
