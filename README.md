@@ -49,8 +49,6 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 ---
 ### ML Tools:
 
-- [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
-
 - [OpenFE Tutorial / Demo](ML_Tools/Kaggle_OpenFE.ipynb)
 
 ---
@@ -89,7 +87,8 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 ## Using the Notebooks:  
 
-For connecting to snowflake, the notebooks use a creds.json file.  You will want to create this JSON file with the following structure
+For connecting to snowflake, the notebooks use a creds.json file.  You will want to create this JSON file with the following structure. My newer notebook also include code for using a private key (I typically use private key and 2 factor). 
+
 ```
 {
     "account":"MY SNOWFLAKE ACCOUNT",
