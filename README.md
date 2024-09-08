@@ -35,18 +35,26 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 - [Getting User Feedback using Cortex with Streamlit App](Cortex_LLM/Streamlit_Cortex_Evaluation_LLM.ipynb)
 
 --- 
-### ML Functions
+### ML Functions from Snowflake
 
 - [Using Snowflake ML Functions for Forecasting](ML_Functions/Forecasting.ipynb)
 
 ---
-### ML Functions
+### Feature Store:
 
 - [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
 
 - [Basics of Snowpark with Forecasting Chicago Bus Ridership including Feature Store](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus_FeatureStore.ipynb)
 
 ---
+### ML Tools:
+
+- [Basic Feature Store in Snowflake](FeatureStore/Basic_Feature_Demo.ipynb)
+
+- [OpenFE Tutorial / Demo](ML_Tools/Kaggle_OpenFE.ipynb)
+
+---
+
 
 ### Misc Notebooks: 
 
