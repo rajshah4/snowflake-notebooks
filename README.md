@@ -85,6 +85,14 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 ---
 
+### Model Demos for Snowflake Container Notebooks:
+
+- [Llama on VLLM in Container Notebooks](Models/VLLM_Llama.ipynb) 
+
+- [LLama 3.2 Vision Models on COntainer Notebooks](Models/Llama3_2_Vision.ipynb)
+
+---
+
 ## Using the Notebooks:  
 
 For connecting to snowflake, the notebooks use a creds.json file.  You will want to create this JSON file with the following structure. My newer notebook also include code for using a private key (I typically use private key and 2 factor). 
