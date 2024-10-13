@@ -5,9 +5,9 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 
 ## Notebooks
 
-[Basics of Snowpark using Diabetes Dataset](SnowPark_Basics_Diabetes/Snowpark_For_Python_ML_Diabetes.ipynb)
+[Basics of Snowflake ML using Diabetes Dataset](SnowPark_Basics_Diabetes/Snowpark_For_Python_ML_Diabetes.ipynb)
 
-[Basics of Snowpark with Forecasting Chicago Bus Ridership](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus.ipynb)
+[Basics of Snowflake ML with Forecasting Chicago Bus Ridership](Forecasting_ChicagoBus/Snowpark_Forecasting_Bus.ipynb)
   
 ---
 ### Scaling:
@@ -50,6 +50,7 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 ### ML Tools:
 
 - [OpenFE Tutorial / Demo](ML_Tools/Kaggle_OpenFE.ipynb)
+- [Using Embedding Models or Sentence Transformers with Snowflake](ML_Tools/sentence_transformers.ipynb)
 
 ---
 
@@ -57,8 +58,6 @@ This is an unofficial repo. If you need the latest and greatest, check out the s
 ### Misc Notebooks: 
 
 - [Running Hugging Face Models off Snowpark](Snowpark_HuggingFace.ipynb)
-
-- [Using Embedding Models or Sentence Transformers with Snowpark](sentence_transformers.ipynb)
 
 - [Starter guide on UDFs and UDTFs in Snowflake](UDF_UDTF_Examples.ipynb)
 
