@@ -3,6 +3,8 @@ Unofficial snowflake notebooks created by me
 
 This is an unofficial repo. If you need the latest and greatest, check out the snowflake [documentation](https://docs.snowflake.com/) or [Snowflake Developers](https://developers.snowflake.com/) or [Snowflake labs repo](https://github.com/Snowflake-Labs/).
 
+**As of November 2024, I no longer work at Snowflake and will not be updating the notebooks**
+
 ## Notebooks
 
 [Basics of Snowflake ML using Diabetes Dataset](SnowPark_Basics_Diabetes/Snowpark_For_Python_ML_Diabetes.ipynb)
